@@ -130,6 +130,9 @@ NUnit generates TRX files in the `TestResults/` directory:
   dotnet test --logger "trx;LogFilePath=TestResults.trx"
   trxlog2html -i TestResults\xxx.trx -o TestReport\TestReport.html
   ```
+report screen:
+https://github.com/nightwish2016/Homework_WEBUI/blob/main/AOS_UI_Automation/TestReport/TestReport.html
+https://github.com/nightwish2016/Homework_WEBUI/blob/main/report.png
 
   
 
