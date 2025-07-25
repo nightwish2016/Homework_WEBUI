@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="3f79607f-e97e-4aab-91d4-98282147eab9" name="Kevin@LAPTOP-O0TPN0MB 2025-07-25 23:01:33" runUser="LAPTOP-O0TPN0MB\Kevin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-07-25T23:01:33.0855052+08:00" queuing="2025-07-25T23:01:33.0855055+08:00" start="2025-07-25T23:01:22.3941928+08:00" finish="2025-07-25T23:01:33.1075711+08:00" />
+  <TestSettings name="default" id="5c332071-32ae-4181-bd84-4c91e0ad570a">
+    <Deployment runDeploymentRoot="Kevin_LAPTOP-O0TPN0MB_2025-07-25_23_01_33" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="1f6f5123-4520-47bb-b7f4-24f9e81375a6" testId="cbc7793c-28e5-04e6-146e-b5099e487886" testName="VerifyCartTotalAmount" computerName="LAPTOP-O0TPN0MB" duration="00:00:09.1126460" startTime="2025-07-25T23:01:23.3822780+08:00" endTime="2025-07-25T23:01:32.4949249+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1f6f5123-4520-47bb-b7f4-24f9e81375a6">
+      <Output>
+        <ErrorInfo>
+          <Message>OneTimeSetUp: OpenQA.Selenium.UnknownErrorException : unknown error: net::ERR_CONNECTION_CLOSED&#xD;
+  (Session info: chrome=138.0.7204.158)</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8274589c-d391-497f-ac61-acc142e95d1a" testId="ef22e31a-a13e-2f7d-0a66-5974cbaaba0a" testName="添加鼠标到购物车并验证" computerName="LAPTOP-O0TPN0MB" duration="00:00:09.1126220" startTime="2025-07-25T23:01:23.3822780+08:00" endTime="2025-07-25T23:01:32.4949014+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8274589c-d391-497f-ac61-acc142e95d1a">
+      <Output>
+        <ErrorInfo>
+          <Message>OneTimeSetUp: OpenQA.Selenium.UnknownErrorException : unknown error: net::ERR_CONNECTION_CLOSED&#xD;
+  (Session info: chrome=138.0.7204.158)</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c351322e-8000-4f48-9915-2f698d50b8f9" testId="0804ee53-4d46-a6c8-31d6-44434b98002d" testName="添加平板电脑到购物车并验证" computerName="LAPTOP-O0TPN0MB" duration="00:00:09.1126410" startTime="2025-07-25T23:01:23.3822780+08:00" endTime="2025-07-25T23:01:32.4949199+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c351322e-8000-4f48-9915-2f698d50b8f9">
+      <Output>
+        <ErrorInfo>
+          <Message>OneTimeSetUp: OpenQA.Selenium.UnknownErrorException : unknown error: net::ERR_CONNECTION_CLOSED&#xD;
+  (Session info: chrome=138.0.7204.158)</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5e55ddc1-3586-4482-8052-d5615bf61086" testId="77a66f12-887d-16a7-56f1-3f644af57505" testName="添加笔记本电脑到购物车并验证" computerName="LAPTOP-O0TPN0MB" duration="00:00:09.1121770" startTime="2025-07-25T23:01:23.3822780+08:00" endTime="2025-07-25T23:01:32.4944557+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5e55ddc1-3586-4482-8052-d5615bf61086">
+      <Output>
+        <ErrorInfo>
+          <Message>OneTimeSetUp: OpenQA.Selenium.UnknownErrorException : unknown error: net::ERR_CONNECTION_CLOSED&#xD;
+  (Session info: chrome=138.0.7204.158)</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e381b2b0-801e-4d91-b06f-1e92ecc40877" testId="a5c685c0-a0da-8637-4ab5-a9495121adba" testName="VerifyCartTotalQuantity" computerName="LAPTOP-O0TPN0MB" duration="00:00:09.1126490" startTime="2025-07-25T23:01:23.3822780+08:00" endTime="2025-07-25T23:01:32.4949284+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e381b2b0-801e-4d91-b06f-1e92ecc40877">
+      <Output>
+        <ErrorInfo>
+          <Message>OneTimeSetUp: OpenQA.Selenium.UnknownErrorException : unknown error: net::ERR_CONNECTION_CLOSED&#xD;
+  (Session info: chrome=138.0.7204.158)</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="VerifyCartTotalAmount" storage="c:\users\kevin\desktop\kevindoc\github-repo\c#practice\aos_ui_automation\bin\debug\net8.0\aos_ui_automation.dll" id="cbc7793c-28e5-04e6-146e-b5099e487886">
+      <Execution id="1f6f5123-4520-47bb-b7f4-24f9e81375a6" />
+      <TestMethod codeBase="C:\Users\Kevin\Desktop\kevindoc\github-repo\c#Practice\AOS_UI_Automation\bin\Debug\net8.0\AOS_UI_Automation.dll" adapterTypeName="executor://nunit3testexecutor/" className="AOS_UI_Automation.AOSTests" name="VerifyCartTotalAmount" />
+    </UnitTest>
+    <UnitTest name="VerifyCartTotalQuantity" storage="c:\users\kevin\desktop\kevindoc\github-repo\c#practice\aos_ui_automation\bin\debug\net8.0\aos_ui_automation.dll" id="a5c685c0-a0da-8637-4ab5-a9495121adba">
+      <Execution id="e381b2b0-801e-4d91-b06f-1e92ecc40877" />
+      <TestMethod codeBase="C:\Users\Kevin\Desktop\kevindoc\github-repo\c#Practice\AOS_UI_Automation\bin\Debug\net8.0\AOS_UI_Automation.dll" adapterTypeName="executor://nunit3testexecutor/" className="AOS_UI_Automation.AOSTests" name="VerifyCartTotalQuantity" />
+    </UnitTest>
+    <UnitTest name="添加平板电脑到购物车并验证" storage="c:\users\kevin\desktop\kevindoc\github-repo\c#practice\aos_ui_automation\bin\debug\net8.0\aos_ui_automation.dll" id="0804ee53-4d46-a6c8-31d6-44434b98002d">
+      <Execution id="c351322e-8000-4f48-9915-2f698d50b8f9" />
+      <TestMethod codeBase="C:\Users\Kevin\Desktop\kevindoc\github-repo\c#Practice\AOS_UI_Automation\bin\Debug\net8.0\AOS_UI_Automation.dll" adapterTypeName="executor://nunit3testexecutor/" className="AOS_UI_Automation.AOSTests" name="添加平板电脑到购物车并验证" />
+    </UnitTest>
+    <UnitTest name="添加鼠标到购物车并验证" storage="c:\users\kevin\desktop\kevindoc\github-repo\c#practice\aos_ui_automation\bin\debug\net8.0\aos_ui_automation.dll" id="ef22e31a-a13e-2f7d-0a66-5974cbaaba0a">
+      <Execution id="8274589c-d391-497f-ac61-acc142e95d1a" />
+      <TestMethod codeBase="C:\Users\Kevin\Desktop\kevindoc\github-repo\c#Practice\AOS_UI_Automation\bin\Debug\net8.0\AOS_UI_Automation.dll" adapterTypeName="executor://nunit3testexecutor/" className="AOS_UI_Automation.AOSTests" name="添加鼠标到购物车并验证" />
+    </UnitTest>
+    <UnitTest name="添加笔记本电脑到购物车并验证" storage="c:\users\kevin\desktop\kevindoc\github-repo\c#practice\aos_ui_automation\bin\debug\net8.0\aos_ui_automation.dll" id="77a66f12-887d-16a7-56f1-3f644af57505">
+      <Execution id="5e55ddc1-3586-4482-8052-d5615bf61086" />
+      <TestMethod codeBase="C:\Users\Kevin\Desktop\kevindoc\github-repo\c#Practice\AOS_UI_Automation\bin\Debug\net8.0\AOS_UI_Automation.dll" adapterTypeName="executor://nunit3testexecutor/" className="AOS_UI_Automation.AOSTests" name="添加笔记本电脑到购物车并验证" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="cbc7793c-28e5-04e6-146e-b5099e487886" executionId="1f6f5123-4520-47bb-b7f4-24f9e81375a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef22e31a-a13e-2f7d-0a66-5974cbaaba0a" executionId="8274589c-d391-497f-ac61-acc142e95d1a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0804ee53-4d46-a6c8-31d6-44434b98002d" executionId="c351322e-8000-4f48-9915-2f698d50b8f9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77a66f12-887d-16a7-56f1-3f644af57505" executionId="5e55ddc1-3586-4482-8052-d5615bf61086" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5c685c0-a0da-8637-4ab5-a9495121adba" executionId="e381b2b0-801e-4d91-b06f-1e92ecc40877" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="5" executed="5" passed="0" failed="5" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.17.0.0: Test execution started&#xD;
+Running all tests in C:\Users\Kevin\Desktop\kevindoc\github-repo\c#Practice\AOS_UI_Automation\bin\Debug\net8.0\AOS_UI_Automation.dll&#xD;
+   NUnit3TestExecutor discovered 5 of 5 NUnit test cases&#xD;
+Starting ChromeDriver 138.0.7204.168 (3e8d82e86e9f508e88ed406c2a24657a6c691d30-refs/branch-heads/7204@{#2081}) on port 53466&#xD;
+Only local connections are allowed.&#xD;
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.&#xD;
+ChromeDriver was started successfully on port 53466.&#xD;
+NUnit Adapter 3.17.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="LAPTOP-O0TPN0MB" outcome="Warning" timestamp="2025-07-25T23:01:32.8727569+08:00">
+        <Text>Setup failed for test fixture AOS_UI_Automation.AOSTests</Text>
+      </RunInfo>
+      <RunInfo computerName="LAPTOP-O0TPN0MB" outcome="Warning" timestamp="2025-07-25T23:01:32.8743608+08:00">
+        <Text>OpenQA.Selenium.UnknownErrorException : unknown error: net::ERR_CONNECTION_CLOSED&#xD;
+  (Session info: chrome=138.0.7204.158)</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
